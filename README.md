@@ -7,11 +7,12 @@
       tech project....
 
 - 📫 How To Reach Me ...
-     Email:bharatdangat2005@gmail.com
+
+   Email:bharatdangat2005@gmail.com
   
-     LinkedIn:https://www.linkedin.com/in/bharatdangat
+   LinkedIn:https://www.linkedin.com/in/bharatdangat
   
-     GitHub: You're already here! 😄
+   GitHub: You're already here! 😄
 <!---
 
 --->
